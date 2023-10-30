@@ -1,5 +1,5 @@
 ﻿
-# Computational Intelligence Course Project
+# Fundamentals of Computational Intelligence Course Project
 
 ## Introduction
 This document presents the comprehensive project I undertook as part of my university program's "Fundamental of Computational Intelligence" course. The project consists of three phases, each with specific objectives, related to the analysis and classification of EEG signals to detect seizures in epileptic patients. Below, I provide a summary of the key aspects of the project and the topics I explored during the course.
